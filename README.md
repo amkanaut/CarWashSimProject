@@ -1,1 +1,1 @@
-# hw6
+# Car Wash Simulator program for a school project
